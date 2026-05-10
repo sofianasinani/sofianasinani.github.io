@@ -13,6 +13,7 @@ I am an applied microeconomist specializing in family, culture, and development 
 
 During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)).
 
-You may contact me at: Sofiana[dot]Sinani[at]cerge-ei[dot]cz
+Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz
+CV: [here](files/Sofiana_Sinani_CV.pdf)
 
 **I am on the 2026/2027 job market! 😊**
