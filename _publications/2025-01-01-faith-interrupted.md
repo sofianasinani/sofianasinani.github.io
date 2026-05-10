@@ -2,7 +2,6 @@
 title: "Faith, Interrupted: Identity and Behavior After Forced Atheism"
 collection: publications
 permalink: /publication/faith-interrupted
-date: 2025-01-01
 venue: 'Job Market Paper'
 publication_category: manuscripts
 ---
