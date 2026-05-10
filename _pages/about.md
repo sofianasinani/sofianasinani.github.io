@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate at the Center for Economic Research and Graduate Education - Economics Institute in Prague, Czech Republic [(CERGE-EI)](https://www.cerge-ei.cz/). My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
+Hi! I am a PhD candidate at [(CERGE-EI)](https://www.cerge-ei.cz/) in Prague, Czech Republic. My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
 
 I am an applied microeconomist specializing in family, culture, and development economics. My research explores how social norms, institutional policies, and economic forces shape individual and household behaviours, with implications for labor markets, occupational choices, and firm growth.
 
