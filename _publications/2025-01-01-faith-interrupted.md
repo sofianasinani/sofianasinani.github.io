@@ -2,11 +2,11 @@
 title: "Faith, Interrupted: Identity and Behavior After Forced Atheism"
 collection: publications
 permalink: /publication/faith-interrupted
-venue: 'Job Market Paper'
-publication_category: manuscripts
+date: 2025-01-01
+category: wip
 ---
 
-**with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)**
+*Job Market Paper* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 
 *Paper available upon request*
 
