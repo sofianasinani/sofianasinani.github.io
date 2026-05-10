@@ -2,7 +2,6 @@
 title: "Gender Gap in Reported Childcare Preferences among Parents"
 collection: publications
 permalink: /publication/childcare-preferences
-date: 2025-02-01
 venue: 'Review of Economics of the Household, February 2025'
 publication_category: manuscripts
 ---
