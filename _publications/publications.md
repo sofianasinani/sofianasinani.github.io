@@ -7,7 +7,7 @@ author_profile: true
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 17px;">Faith, Interrupted: Identity and Behavior After Forced Atheism</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Identity and Behavior After Forced Atheism</span>
 <br>
 *Job Market Paper* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="margin-top: 15px;"></div>
 
-<span style="color: #003366; font-weight: bold; font-size: 17px;">The Effect of Longer Maternal Care on Children's Occupation Choices</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices</span>
 <br>
 [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
 <br>
@@ -31,7 +31,7 @@ This paper investigates whether a mother's extended provision of full-time child
 <p><em><span style="color: grey;">Presented at: (2025) EWMES (Nicosia), 4th International Workshop on Migration and Family Economics (Paris), RES Annual Conference (Birmingham); (2024) Dissertation Workshop at CERGE-EI (Prague), 3rd Rare Voices in Economics Conference (Geneva), 3rd NSE PhD and Postdoc Workshop (Naples), PhD seminars at the University of Copenhagen and CEBI, 49th SAEe (Palma de Mallorca)</span></em></p>
 
 <div style="margin-top: 15px;"></div>
-<span style="color: #003366; font-weight: bold; font-size: 17px;">Income Shocks and Firm Size in India</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
 *Data work ongoing* · with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)
 
@@ -39,7 +39,7 @@ This paper examines whether medium-run demand shocks lead to sustained changes i
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 17px;">Gender Gap in Reported Childcare Preferences among Parents</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
 <br>
 with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)
 <br>
