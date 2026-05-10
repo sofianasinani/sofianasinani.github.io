@@ -2,7 +2,6 @@
 title: "Income Shocks and Firm Size in India"
 collection: publications
 permalink: /publication/income-shocks
-date: 2023-01-01
 venue: 'Data work ongoing'
 publication_category: manuscripts
 ---
