@@ -26,9 +26,9 @@ author_profile: true
 
 <br>
 
-**Income Shocks and Firm Size in India**
+**[Income Shocks and Firm Size in India](#)**
 <br>
-*Working Paper* · with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)
+*Data work ongoing* · with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)
 
 <br>
 
