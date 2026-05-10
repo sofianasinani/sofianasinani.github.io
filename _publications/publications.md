@@ -20,8 +20,6 @@ author_profile: true
 <p><em><span style="color: grey;">Presented at: (2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin), Workshop on Gender and Economics (Luxembourg), EEA-ESEM (Dublin); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
 </details>
 
-<br>
-
 **The Effect of Longer Maternal Care on Children's Occupation Choices**
 <br>
 [CERGE-EI Working Paper](/files/maternal_care.pdf)
@@ -39,9 +37,6 @@ This paper investigates whether a mother's extended provision of full-time child
 <p><em><span style="color: grey;">Presented at: (2025) EWMES (Nicosia), 4th International Workshop on Migration and Family Economics (Paris), RES Annual Conference (Birmingham); (2024) Dissertation Workshop at CERGE-EI (Prague), 3rd Rare Voices in Economics Conference (Geneva), 3rd NSE PhD and Postdoc Workshop (Naples), PhD seminars at the University of Copenhagen and CEBI, 49th SAEe (Palma de Mallorca)</span></em></p>
 </details>
 
-
-<br>
-
 **Income Shocks and Firm Size in India**
 <br>
 *Data work ongoing* · with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)
@@ -51,9 +46,6 @@ This paper investigates whether a mother's extended provision of full-time child
 <br>
 This paper examines whether medium-run demand shocks lead to sustained changes in firm size. We exploit exogenous fluctuations in agricultural output driven by rainfall variation to identify demand shocks to local village economies. Combining firm and household survey data with geographically detailed crop production, we show that favorable rainfall periods generate positive demand shocks that increase firm size, raise household consumption, and improve local economic outcomes.
 </details>
-
-
-<br>
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Published</h2>
 
