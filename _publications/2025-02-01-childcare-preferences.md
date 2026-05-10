@@ -8,7 +8,7 @@ publication_category: manuscripts
 
 **with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)**
 
-*Published at the [Review of Economics of the Household](https://link.springer.com/journal/11150), February 2025*
+<p><em><a href="https://link.springer.com/article/10.1007/s11150-025-09731-y">Published · Review of Economics of the Household, February 2025</a></em></p>
 
 <details>
 <summary>Abstract</summary>
