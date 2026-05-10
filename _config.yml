@@ -23,7 +23,7 @@ repository               : "sofianasinani/sofianasinani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/sofiana_profile.jpg"
+  avatar           : "/images/sofiana_profile.jpg"
   name             : "Sofiana Sinani"
   bio              : ""
   employer         : "CERGE-EI"
@@ -32,7 +32,7 @@ author:
 
   # Social media
   bluesky          : "sofianasinani.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "sofiana-sinani/" # Username
+  linkedin         : "sofiana-sinani" # Username
   twitter          : "SofianaSinani" # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
@@ -117,6 +117,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - images
   - files
 exclude:
   - "*.sublime-project"
