@@ -6,7 +6,7 @@ date: 2025-01-01
 category: wip
 ---
 
-*Job Market Paper* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
+<p><em>Job Market Paper</em> · with <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a> and <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a></p>
 
 *Paper available upon request*
 
