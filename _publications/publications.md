@@ -7,7 +7,7 @@ author_profile: true
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Work in Progress</h2>
 
-**[Faith, Interrupted: Identity and Behavior After Forced Atheism](#)**
+**Faith, Interrupted: Identity and Behavior After Forced Atheism**
 <br>
 *Job Market Paper* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
@@ -22,7 +22,7 @@ author_profile: true
 
 <br>
 
-**[The Effect of Longer Maternal Care on Children's Occupation Choices](#)**
+**The Effect of Longer Maternal Care on Children's Occupation Choices**
 <br>
 [CERGE-EI Working Paper](/files/maternal_care.pdf)
 <br>
@@ -42,7 +42,7 @@ This paper investigates whether a mother's extended provision of full-time child
 
 <br>
 
-**[Income Shocks and Firm Size in India](#)**
+**Income Shocks and Firm Size in India**
 <br>
 *Data work ongoing* · with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)
 
@@ -57,7 +57,7 @@ This paper examines whether medium-run demand shocks lead to sustained changes i
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Published</h2>
 
-**[Gender Gap in Reported Childcare Preferences among Parents](#)**
+**Gender Gap in Reported Childcare Preferences among Parents**
 <br>
 with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)
 <br>
