@@ -5,6 +5,7 @@ permalink: /publication/maternal-care
 venue: 'CERGE-EI Working Paper'
 publication_category: manuscripts
 ---
+<p><em><a href="https://cerge-ei.cz/pdf/wp/Wp812.pdf">CERGE-EI Working Paper</a></em></p>
 
 *Awards:*
 - 2025, Royal Economic Society: Best Conference Poster Prize
