@@ -21,6 +21,7 @@ author_profile: true
 **The Effect of Longer Maternal Care on Children's Occupation Choices**
 <br>
 [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
+
 *Awards:*
 - 2025, Royal Economic Society: Best Conference Poster Prize [[LinkedIn post]](https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/)
 - 2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [[Media]](https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/)
