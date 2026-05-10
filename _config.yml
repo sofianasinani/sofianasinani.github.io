@@ -11,10 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sofiana Sinani "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Hi! I am a PhD candidate at the Center for Economic Research and Graduate Education - Economics Institute in Prague, Czech Republic (CERGE-EI). My supervisors are Andreas Menzel and Clara Sievert. 
-I am an applied microeconomist specializing in family, culture, and development economics. My research explores how social norms, institutional policies, and economic forces shape individual and household behaviours, with implications for labor markets, occupational choices, and firm growth.
-During my PhD years, I visited the Kiel Institute for the World Economy (hosted by Cathrin Mohr), the University of Padova (hosted by Andreas Menzel), the University of Copenhagen, CEBI (hosted by Mette Gørtz)."   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Sofiana Sinani"
+description              : &description "PhD candidate in Economics at CERGE-EI, Prague"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sofianasinani.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,9 +33,9 @@ author:
   email            : "Sofiana[dot]Sinani[at]cerge-ei[dot]cz"   
 
   # Social media
-  bluesky          : "https://bsky.app/profile/sofianasinani.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "https://www.linkedin.com/in/sofiana-sinani/" # Username
-  twitter          : "https://x.com/SofianaSinani" # Username for X / Twitter
+  bluesky          : "sofianasinani.bsky.social" # Replace this with you Bluesky username
+  linkedin         : "sofiana-sinani/" # Username
+  twitter          : "SofianaSinani" # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
