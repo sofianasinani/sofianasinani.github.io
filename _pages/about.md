@@ -1,56 +1,75 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I am a PhD candidate at the Center for Economic Research and Graduate Education - Economics Institute in Prague, Czech Republic [(CERGE-EI)](https://www.cerge-ei.cz/). My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an applied microeconomist specializing in family, culture, and development economics. My research explores how social norms, institutional policies, and economic forces shape individual and household behaviours, with implications for labor markets, occupational choices, and firm growth.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)), 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**I am on the 2026/2027 job market! 😊**
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Work in Progress
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Faith, Interrupted: Identity and Behavior After Forced Atheism**   
+with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)  
+*Paper available upon request*
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<details>
+<summary>Abstract</summary>
+<br>
+[Paste your abstract here]
 
-**Markdown generator**
+<p><em><span style="color: grey;">Presented at: (2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin); Workshop on Gender and Economics (Luxembourg); EEA-ESEM (Dublin); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
+</details>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+---
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**The Effect of Longer Maternal Care on Children's Occupation Choices**  
+CERGE-EI Working Paper  
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+*Awards:*  
+- 2025, Royal Economic Society: Best Conference Poster Prize [[LinkedIn post]](https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/)
+- 2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [[Media coverage]](https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/) 
+- 2023, Charles University Grant Agency: funding awarded  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<details>
+<summary>Abstract</summary>
+<br>
+This paper investigates whether a mother’s extended provision of full-time childcare shapes her children’s preferences for occupation choices. I analyze a natural experiment in the Czech Republic that extended parental allowances by one year. This induced many mothers to remain out of the workplace and caused them to face a higher likelihood of long-term employment. This shift reinforced a more traditional, mother-as-homemaker dynamic within households. Using a regression discontinuity design, I measure their children’s later occupational preferences via their university applications. I find that boys who were exposed to the reform during early childhood were 20% less likely to apply to stereotypically feminine fields in adulthood, with no corresponding effect observed for girls. I examine potential channels and find no evidence that the reform altered children’s academic ability (proxied by high school track) or their preferences for research- and mathematicsoriented tracks. The results are therefore consistent with the interpretation that longer exposure to a stay-at-home mother, which may accentuate traditional gender roles, can reduce boys openness to nurturing- and care-oriented careers. This study provides the first causal evidence that the duration of maternal care can influence the gender-specific occupational choices. 
+
+<p><em><span style="color: grey;">Presented at: (2025)  EWMES (Nicosia), 4th International Workshop on Migration and Family Economics (Paris); RES Annual Conference (Birmingham); (2024) Dissertation Workshop at CERGE-EI (Prague); 3rd Rare Voices in Economics Conference (Geneva); 3rd NSE PhD and Postdoc Workshop (Naples); PhD seminars at the University of Copenhagen and CEBI; lunch seminars (Copenhagen); 49th SAEe (Palma de Mallorca); Danish Graduate Programme in Economics network workshop 2024 (Middelfart)</span></em></p>
+</details>
+
+---
+
+**Income Shocks and Firm Size in India**  
+with [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)  
+
+<details>
+<summary>Abstract</summary>
+<br>
+This paper examines whether medium-run demand shocks lead to sustained changes in firm size. We exploit exogenous fluctuations in agricultural output driven by rainfall variation to identify demand shocks to local village economies. Combining firm and household survey data with geographically detailed crop production, we show that favorable rainfall periods generate positive demand shocks that increase firm size, raise household consumption, and improve local economic outcomes.
+</details>
+
+---
+
+## Published
+
+**Gender Gap in Reported Childcare Preferences among Parents**  
+with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)   
+*Published at the [Review of Economics of the Household](https://link.springer.com/journal/11150), February 2025*
+
+<details>
+<summary>Abstract</summary>
+<br>
+The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member. We further document widespread misperception of fathers’ preferences, as respondents incorrectly expect fathers to require less to care for a child than to care for an elderly parent. 
+</details>
