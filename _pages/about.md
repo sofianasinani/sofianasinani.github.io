@@ -11,6 +11,8 @@ Hi! I am a PhD candidate at the Center for Economic Research and Graduate Educat
 
 I am an applied microeconomist specializing in family, culture, and development economics. My research explores how social norms, institutional policies, and economic forces shape individual and household behaviours, with implications for labor markets, occupational choices, and firm growth.
 
-During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)), 
+During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://www.cerge-ei.cz/researchers/andreas-menzel-phd)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)).
+
+You may contact me at: Sofiana[dot]Sinani[at]cerge-ei[dot]cz
 
 **I am on the 2026/2027 job market! 😊**
