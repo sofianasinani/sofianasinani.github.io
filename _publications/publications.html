@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Research"
+permalink: /publications/
+author_profile: true
+---
+
+## Work in Progress
+
+{% assign wip = site.publications | where: "venue", "Job Market Paper" | sort: "date" | reverse %}
+{% assign wip2 = site.publications | where: "venue", "CERGE-EI Working Paper" | sort: "date" | reverse %}
+{% assign wip3 = site.publications | where: "venue", "Working Paper" | sort: "date" | reverse %}
+
+{% for post in wip %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in wip2 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in wip3 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## Published
+
+{% assign published = site.publications | where: "venue", "Review of Economics of the Household, February 2025" | sort: "date" | reverse %}
+
+{% for post in published %}
+  {% include archive-single.html %}
+{% endfor %}
