@@ -49,3 +49,13 @@
   border: none !important;
   box-shadow: none !important;
 }
+
+.page__content a {
+  text-decoration: none !important;
+  color: #003366 !important;
+}
+
+.page__content a:hover {
+  text-decoration: underline !important;
+  color: #003366 !important;
+}
