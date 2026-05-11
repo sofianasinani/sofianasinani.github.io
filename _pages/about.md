@@ -16,6 +16,8 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 
 <p>Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
 
+<div style="clear: both;">
 <p>CV: <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
+</div>
 
 **I am on the 2026/2027 job market! 😊**
