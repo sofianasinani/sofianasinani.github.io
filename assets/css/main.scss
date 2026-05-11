@@ -77,3 +77,15 @@
 .author__name {
   display: none !important;
 }
+
+.archive__item a,
+.archive a,
+a {
+  text-decoration: none !important;
+  color: #003366 !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+  color: #003366 !important;
+}
