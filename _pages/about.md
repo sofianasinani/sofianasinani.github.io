@@ -14,8 +14,8 @@ My research spans family, culture, and development economics, primarily studying
 
 During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)).
 
-Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz
+<p>Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
 
-CV: [here](files/Sofiana_Sinani_CV.pdf)
+<p>CV: <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
 
 **I am on the 2026/2027 job market! 😊**
