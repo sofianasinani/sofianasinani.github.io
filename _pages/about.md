@@ -10,11 +10,11 @@ redirect_from:
 
 Hi! I am a PhD candidate in Economics at [CERGE-EI](https://www.cerge-ei.cz/). My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
 
-My research spans family, culture, and development economics, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India.
+My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India.
 
 During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)).
 
-<p>Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
+<p> **Email: Sofiana[dot]Sinani[at]cerge-ei[dot]cz**</p>
 
 <div style="clear: both;">
 <p>CV: <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
