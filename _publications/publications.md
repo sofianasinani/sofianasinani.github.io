@@ -9,7 +9,7 @@ author_profile: true
 
 <span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Identity and Behavior After Forced Atheism</span>
 <br>
-· with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
+Datawork still ongoing· with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
 *Paper available upon request*
 
