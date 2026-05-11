@@ -33,21 +33,23 @@
     "vendor/font-awesome/brands"
 ;
 
+.sidebar {
+  width: 350px !important;
+  max-width: 350px !important;
+}
+
 .author__avatar img {
-  border-radius: 0% !important;
-  width: 750px !important;
-  height: 400px !important;
+  width: 320px !important;
+  height: 380px !important;
   object-fit: cover;
+  object-position: top center;
   border: none !important;
   box-shadow: none !important;
-  outline: none !important;
 }
 
 .author__avatar {
-  width: 750px !important;
-  height: 400px !important;
-  border: none !important;
-  box-shadow: none !important;
+  width: 320px !important;
+  height: 380px !important;
 }
 
 .page__content a {
