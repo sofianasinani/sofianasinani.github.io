@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sofiana Sinani "
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Sofiana Sinani"
 description              : &description "PhD candidate in Economics at CERGE-EI, Prague"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,18 +23,14 @@ repository               : "sofianasinani/sofianasinani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "sofiana pic.jpg"
   name             : "Sofiana Sinani"
-  pronouns         : # example: "she/her"  
   bio              : ""
-  location         : ""
   employer         : "CERGE-EI"
   uri              : # URL
-  email            : "Sofiana[dot]Sinani[at]cerge-ei[dot]cz"   
-
   # Social media
   bluesky          : "sofianasinani.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "sofiana-sinani/" # Username
+  linkedin         : "sofiana-sinani" # Username
   twitter          : "SofianaSinani" # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
@@ -85,7 +81,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : cSIyddTlw-o1Y30DPCtWuQl0x36m1QOWmB0Ivt_9YGE
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -119,6 +115,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - images
   - files
 exclude:
   - "*.sublime-project"
@@ -146,7 +143,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - vendor
+  - vendor/bundle
 keep_files:
   - .git
   - .svn

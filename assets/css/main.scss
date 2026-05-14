@@ -1,26 +1,20 @@
 ---
 ---
-
 /*
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,15 +23,69 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.sidebar {
+  width: 300px !important;
+  max-width: 300px !important;
+}
+
+.author__avatar {
+  width: 300px !important;
+  height: 380px !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+}
+
+.author__avatar img {
+  width: 300px !important;
+  height: 380px !important;
+  object-fit: cover !important;
+  object-position: top center !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border-radius: 0 !important;
+  clip-path: none !important;
+}
+
+.author__avatar img:before,
+.author__avatar img:after {
+  border-radius: 0 !important;
+}
+
+.page__content a {
+  text-decoration: none !important;
+  color: #003366 !important;
+}
+
+.page__content a:hover {
+  text-decoration: underline !important;
+  color: #003366 !important;
+}
+
+.author__name {
+  display: none !important;
+}
+
+.archive__item a,
+.archive a,
+a {
+  text-decoration: none !important;
+  color: #003366 !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+  color: #003366 !important;
+}
