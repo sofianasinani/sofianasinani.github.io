@@ -34,12 +34,12 @@
 ;
 
 .sidebar {
-  width: 520px !important;
-  max-width: 520px !important;
+  width: 380px !important;
+  max-width: 380px !important;
 }
 
 .author__avatar img {
-  width:500px !important;
+  width: 370px !important;
   height: auto !important;
   object-fit: contain !important;
   border: none !important;
@@ -50,20 +50,25 @@
 }
 
 .author__avatar {
-  width: 500px !important;
+  width: 370px !important;
   height: auto !important;
 }
 
 .page {
   float: right !important;
-  width: calc(100% - 560px) !important;
+  width: calc(100% - 420px) !important;
   padding-left: 20px !important;
+}
+
+.page__content {
+  width: 100% !important;
 }
 
 @media (max-width: 1024px) {
   .sidebar {
     width: 100% !important;
     max-width: 100% !important;
+    float: none !important;
   }
   .author__avatar img {
     width: 250px !important;
@@ -74,6 +79,7 @@
   .page {
     width: 100% !important;
     float: none !important;
+    padding-left: 0 !important;
   }
 }
 
