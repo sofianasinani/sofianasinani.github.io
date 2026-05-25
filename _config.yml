@@ -26,12 +26,8 @@ author:
   avatar           : "sofiana pic.jpg"
   name             : "Sofiana Sinani"
   bio              : ""
-  employer         : ""
   uri              : # URL
-  # Social media
-  bluesky          : "" # Replace this with you Bluesky username
-  linkedin         : "" # Username
-  twitter          : "" # Username for X / Twitter
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
