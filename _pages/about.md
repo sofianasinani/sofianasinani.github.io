@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1 style="color: #003366;">Sofiana Sinani</h1>
 
-Hi! I am a PhD candidate in Economics at [CERGE-EI](https://www.cerge-ei.cz/). My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
+Hi! I am a PhD candidate in Economics and Junior Researcher at [CERGE-EI](https://www.cerge-ei.cz/). My supervisors are [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home) and [Clara Sievert](https://clarasievert.com/).
 
 My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India.
 
