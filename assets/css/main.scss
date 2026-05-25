@@ -2,9 +2,6 @@
 ---
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 @import
     "vendor/breakpoint/breakpoint",
@@ -33,41 +30,45 @@
     "vendor/font-awesome/brands"
 ;
 
-.author__avatar img {
-  width: 370px !important;
-  height: auto !important;
-  object-fit: contain !important;
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-  border-radius: 0 !important;
-  clip-path: none !important;
-}
-
-.author__avatar {
-  width: 370px !important;
-  height: auto !important;
-}
-
 @media (min-width: 57.8125em) {
-  .page {
-    width: calc(100% - 420px) !important;
-    float: right !important;
-    padding-left: 50px !important;
-    padding-right: 80px !important;
-    margin-right: 0 !important;
-  }
-   
-   .archive {
-   padding-left: 50px !important; 
-    padding-right: 80px !important;
-  }
-
   .sidebar.sticky {
     width: 380px !important;
     max-width: 380px !important;
     min-width: 380px !important;
     float: left !important;
+  }
+
+  .author__avatar {
+    width: 360px !important;
+    max-width: 360px !important;
+    height: auto !important;
+    display: block !important;
+  }
+
+  .author__avatar img {
+    width: 360px !important;
+    max-width: 360px !important;
+    height: auto !important;
+    display: block !important;
+    object-fit: contain !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border-radius: 0 !important;
+    clip-path: none !important;
+  }
+
+  .page {
+    width: calc(100% - 420px) !important;
+    float: right !important;
+    padding-left: 50px !important;
+    padding-right: 110px !important;
+    margin-right: 0 !important;
+  }
+
+  .archive {
+    padding-left: 50px !important;
+    padding-right: 110px !important;
   }
 
   #main {
@@ -84,6 +85,7 @@
 @media (max-width: 768px) {
   .author__avatar img {
     width: 250px !important;
+    height: auto !important;
   }
   .author__avatar {
     width: 250px !important;
