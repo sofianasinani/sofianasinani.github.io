@@ -54,6 +54,29 @@
   height: auto !important;
 }
 
+.page {
+  float: right !important;
+  width: calc(100% - 560px) !important;
+  padding-left: 20px !important;
+}
+
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .author__avatar img {
+    width: 250px !important;
+  }
+  .author__avatar {
+    width: 250px !important;
+  }
+  .page {
+    width: 100% !important;
+    float: none !important;
+  }
+}
+
 .author__name {
   display: none !important;
 }
