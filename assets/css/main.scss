@@ -34,7 +34,7 @@
 ;
 
 .author__avatar img {
-  width: 100% !important;
+  width: 370px !important;
   height: auto !important;
   object-fit: contain !important;
   border: none !important;
@@ -45,7 +45,7 @@
 }
 
 .author__avatar {
-  width: 100% !important;
+  width: 370px !important;
   height: auto !important;
 }
 
@@ -53,12 +53,13 @@
   .page {
     width: calc(100% - 420px) !important;
     float: right !important;
-    padding-left: 40px !important;
+    padding-left: 50px !important;
     padding-right: 80px !important;
     margin-right: 0 !important;
   }
    
    .archive {
+   padding-left: 50px !important; 
     padding-right: 80px !important;
   }
 
