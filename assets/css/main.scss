@@ -53,7 +53,7 @@
   .page {
     width: calc(100% - 420px) !important;
     float: right !important;
-    padding-left: 20px !important;
+    padding-left: 30px !important;
     padding-right: 50px !important;
     margin-right: 0 !important;
   }
@@ -74,7 +74,7 @@
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .author__avatar img {
     width: 250px !important;
   }
