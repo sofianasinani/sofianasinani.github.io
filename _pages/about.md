@@ -20,4 +20,6 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 <p>CV: <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
 </div>
 
+**Social media:** [LinkedIn](https://www.linkedin.com/in/sofiana-sinani/); [X (formerly Twitter)](https://x.com/SofianaSinani); [Bluesky](https://bsky.app/profile/sofianasinani.bsky.social)
+
 **I am on the 2026/2027 job market! 😊**
