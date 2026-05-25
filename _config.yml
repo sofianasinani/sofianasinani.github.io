@@ -26,12 +26,12 @@ author:
   avatar           : "sofiana pic.jpg"
   name             : "Sofiana Sinani"
   bio              : ""
-  employer         : "CERGE-EI"
+  employer         : ""
   uri              : # URL
   # Social media
-  bluesky          : "sofianasinani.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "sofiana-sinani" # Username
-  twitter          : "SofianaSinani" # Username for X / Twitter
+  bluesky          : "" # Replace this with you Bluesky username
+  linkedin         : "" # Username
+  twitter          : "" # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
