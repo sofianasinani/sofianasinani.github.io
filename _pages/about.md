@@ -12,12 +12,12 @@ Hi! I am a PhD candidate in Economics and Junior Researcher at [CERGE-EI](https:
 
 My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India.
 
-During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)).
+During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and scheduled to visit the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)). I was also a research intern at [Moody's](https://www.moodys.com/). 
 
 **Email:** Sofiana[dot]Sinani[at]cerge-ei[dot]cz
 
 <div style="clear: both;">
-<p>CV: <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
+<p><strong>CV:</strong> <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
 </div>
 
 **Social media:** [LinkedIn](https://www.linkedin.com/in/sofiana-sinani/); [X (formerly Twitter)](https://x.com/SofianaSinani); [Bluesky](https://bsky.app/profile/sofianasinani.bsky.social)
