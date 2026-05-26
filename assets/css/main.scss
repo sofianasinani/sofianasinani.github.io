@@ -68,9 +68,11 @@
   }
 
   .archive {
-    padding-left: 80px !important;
-    padding-right: 150px !important;
-  }
+  float: right !important;
+  width: calc(100% - 420px) !important;
+  padding-left: 80px !important;
+  padding-right: 150px !important;
+}
 
   #main {
     max-width: 100% !important;
