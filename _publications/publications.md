@@ -7,13 +7,15 @@ author_profile: true
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Identity and Behavior After Forced Atheism</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism</span>
 <br>
-Datawork still ongoing · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
+*Paper available upon request* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
-*Paper available upon request*
 
-<p><em><span style="color: grey;">Presented at: (2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin), Workshop on Gender and Economics (Luxembourg), EEA-ESEM (Dublin); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
+Can a state force people to change their identity, or only how they express it? Nation-building reforms often banned names, clothes, and languages of other competing identities in an attempt to change culture. We study the effectiveness of these policies using a radical atheism campaign in 1967 Albania — when the Communist regime criminalized religion and promoted a secular "pure Albanian" identity. Using a residualized event-study design on decades of administrative naming data, we find that religious names declined sharply - Muslim names by 30%, Christian names by 21% - while secular Albanian names rose by 46%. Compliance was uneven along multiple dimensions: strongest in more illiterate districts and where a religion held majority status, and weakest in districts with prior secularization and highest state support. For Muslim men, who were the dominant religion, compliance also operated in the marriage market with a marked shift towards secular wives, while Christian men favored in-group marriages more so after the reform. Survey data collected decades later expose the limits of coercion: religious upbringing declined sharply among post-reform cohorts, but belief in God, comfort from religion, and broader political and democratic attitudes did not move at all, suggesting the regime’s propaganda was never internalized. Our results suggest that even total, sustained, decades-long coercion could
+reshape cultural practices (naming, marriages) - with significant backlash - but it could not change private conviction.
+
+<p><em><span style="color: grey;">Presented at: (2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin), Workshop on Gender and Economics (Luxembourg), IAAE (Lisbon), Women in Political Economy Workshop (Vienna); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
 
 <div style="margin-top: 15px;"></div>
 
@@ -33,9 +35,9 @@ This paper investigates whether a mother's extended provision of full-time child
 <div style="margin-top: 15px;"></div>
 <span style="color: #003366; font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
-*Data work ongoing* · with [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)
+*Paper available upon request* · with [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)
 
-This paper examines whether medium-run demand shocks lead to sustained changes in firm size. We exploit exogenous fluctuations in agricultural output driven by rainfall variation to identify demand shocks to local village economies. Combining firm and household survey data with geographically detailed crop production, we show that favorable rainfall periods generate positive demand shocks that increase firm size, raise household consumption, and improve local economic outcomes.
+Small firm size is a defining feature of low-income economies, and existing explanations — credit constraints, human capital, market access — leave much of the gap unexplained. We test whether positive local demand shocks drive firm growth, using the universe of Indian firms from the Economic Census (1998–2013) linked to village-level harvest shocks constructed from rainfall-predicted crop yields and soil-suitability data. Sustained positive harvest shocks significantly increase average firm size, driven by hired male employment, with no effect on the number of firms. Household survey data show these shocks first raise consumption, and firm growth is concentrated in sectors matching that increased consumption, with effects strongest in credit-intensive sectors — consistent with income shocks relaxing financing constraints on firm growth. The results offer novel, large-scale causal evidence that demand, not only supply-side frictions, shapes firm size in developing economies.
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
