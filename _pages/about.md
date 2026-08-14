@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1 style="color: #003366;">Sofiana Sinani</h1>
 
-Hi! I am a PhD candidate in Economics and Junior Researcher at [CERGE-EI](https://www.cerge-ei.cz/).
+Hi! I am a PhD candidate in Economics and Junior Researcher at [CERGE-EI](https://www.cerge-ei.cz/). **I am on the 2026/2027 job market  😊**
 
 My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India. I am also interested in firm growth in developing countries. 
 
@@ -19,5 +19,3 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 <p style="margin: 0 0 5px 0;"><strong>CV:</strong> <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
 <p style="margin: 0 0 5px 0;"><strong>Social media:</strong> <a href="https://www.linkedin.com/in/sofiana-sinani/">LinkedIn</a>; <a href="https://x.com/SofianaSinani">X (formerly Twitter)</a>; <a href="https://bsky.app/profile/sofianasinani.bsky.social">Bluesky</a></p>
 </div>
-
-<span style="font-weight: bold;">I am on the 2026/2027 job market  😊</span>
