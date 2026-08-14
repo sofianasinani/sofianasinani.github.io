@@ -35,10 +35,11 @@ This paper investigates whether a mother's extended provision of full-time child
 
 <details>
 <summary style="color: grey; cursor: pointer;">Awards</summary>
-<p><em><span style="color: grey;"> 
-- 2025, Royal Economic Society: Best Conference Poster Prize [[LinkedIn post]](https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/)
-- 2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [[Media]](https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/)
-- 2023, Charles University Grant Agency: funding awarded</span></em></p>
+<ul style="color: grey; font-style: italic;">
+  <li>2025, Royal Economic Society: Best Conference Poster Prize [<a href="https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/">LinkedIn post</a>]</li>
+  <li>2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [<a href="https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/">Media</a>]</li>
+  <li>2023, Charles University Grant Agency: funding awarded</li>
+</ul>
 </details>
 
 <div style="margin-top: 15px;"></div>
