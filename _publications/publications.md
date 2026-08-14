@@ -15,7 +15,7 @@ author_profile: true
 Can a state force people to change their identity, or only how they express it? We study Albania's 1967 campaign, when the Communist regime banned religion and promoted a secular "pure Albanian" identity. Using a bunching design on decades of administrative naming data, we find religious names declined sharply — Muslim names by 29pp, Christian names by 15pp — while secular Albanian names rose by 30pp. Compliance was strongest in more illiterate districts and where a religion held majority status, and weakest where prior secularization or state support was highest. Muslim men, the dominant group, increasingly married secular women, while Christian men favored in-group marriage more after the reform. Yet survey data collected decades later reveal the limits of coercion: religious upbringing fell sharply among post-reform cohorts, but belief in God, comfort from religion, and political attitudes did not move at all. Even total, sustained, decades-long coercion could reshape cultural practices — with backlash — but not private beliefs.
 
 <details>
-<summary style="color: grey; cursor: pointer;">Presentations:</summary>
+<summary style="color: grey; cursor: pointer;">Presentations</summary>
 <p><em><span style="color: grey;">(2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin), Workshop on Gender and Economics (Luxembourg), IAAE (Lisbon), Women in Political Economy Workshop (Vienna); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
 </details>
 
@@ -25,20 +25,16 @@ Can a state force people to change their identity, or only how they express it? 
 <br>
 [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
 <br>
-*Awards:*
-- 2025, Royal Economic Society: Best Conference Poster Prize [[LinkedIn post]](https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/)
-- 2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [[Media]](https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/)
-- 2023, Charles University Grant Agency: funding awarded
 
 This paper investigates whether a mother's extended provision of full-time childcare shapes her children's preferences for occupation choices. I analyze a natural experiment in the Czech Republic that extended parental allowances by one year. This induced many mothers to remain out of the workplace and caused them to face a higher likelihood of long-term unemployment. This shift reinforced a more traditional, mother-as-homemaker dynamic within households. Using a regression discontinuity design, I measure their children's later occupational preferences via their university applications. I find that boys who were exposed to the reform during early childhood were 20% less likely to apply to stereotypically feminine fields in adulthood, with no corresponding effect observed for girls.
 
 <details>
-<summary style="color: grey; cursor: pointer;">Presentations:</summary>
+<summary style="color: grey; cursor: pointer;">Presentations</summary>
 <p><em><span style="color: grey;"> (2025) EWMES (Nicosia), 4th International Workshop on Migration and Family Economics (Paris), RES Annual Conference (Birmingham); (2024) Dissertation Workshop at CERGE-EI (Prague), 3rd Rare Voices in Economics Conference (Geneva), 3rd NSE PhD and Postdoc Workshop (Naples), PhD seminars at the University of Copenhagen and CEBI, 49th SAEe (Palma de Mallorca)</span></em></p>
 </details>
 
 <details>
-<summary style="color: grey; cursor: pointer;">Awards::</summary>
+<summary style="color: grey; cursor: pointer;">Awards</summary>
 <p><em><span style="color: grey;"> - 2025, Royal Economic Society: Best Conference Poster Prize [[LinkedIn post]](https://www.linkedin.com/feed/update/urn:li:activity:7345762936562368512/)
 - 2024, Czech Economic Society: Honourable Recognition by the President for an Excellent Paper award [[Media]](https://roklen24.cz/ceska-spolecnost-ekonomicka-udelila-ceny-mlady-ekonom-roku-2024/)
 - 2023, Charles University Grant Agency: funding awarded</span></em></p>
