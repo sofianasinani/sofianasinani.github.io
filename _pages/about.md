@@ -14,8 +14,10 @@ My research spans **family, culture, and development economics**, primarily stud
 
 During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)). I was also a research intern at [Moody's](https://www.moodys.com/). 
 
-**Email:** Sofiana[dot]Sinani[at]cerge-ei[dot]cz
-<div style="clear: both;"><p><strong>CV:</strong> <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p></div>
-**Social media:** [LinkedIn](https://www.linkedin.com/in/sofiana-sinani/); [X (formerly Twitter)](https://x.com/SofianaSinani); [Bluesky](https://bsky.app/profile/sofianasinani.bsky.social)
+<div style="margin: 0; padding: 0; line-height: 1.8;">
+<p style="margin: 0 0 5px 0;"><strong>Email:</strong> Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
+<p style="margin: 0 0 5px 0;"><strong>CV:</strong> <a href="/files/Sofiana_Sinani_CV.pdf">here</a></p>
+<p style="margin: 0 0 5px 0;"><strong>Social media:</strong> <a href="https://www.linkedin.com/in/sofiana-sinani/">LinkedIn</a>; <a href="https://x.com/SofianaSinani">X (formerly Twitter)</a>; <a href="https://bsky.app/profile/sofianasinani.bsky.social">Bluesky</a></p>
+</div>
 
 <span style="font-weight: bold;">I am on the 2026/2027 job market  😊</span>
