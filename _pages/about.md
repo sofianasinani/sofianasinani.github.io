@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a PhD candidate in Economics and Junior Researcher at [CERGE-EI](https://www.cerge-ei.cz/).
 
-My research spans **family, culture, and development economics**, studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India.
+My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India. I am also interested in firm growth in developing countries. 
 
 During my PhD years, I visited the University of Padova (hosted by [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)), the University of Copenhagen, CEBI (hosted by [Mette Gørtz](https://web.econ.ku.dk/gortz/)), and the Kiel Institute for the World Economy (hosted by [Cathrin Mohr](https://sites.google.com/view/cathrinmohr/home)). I was also a research intern at [Moody's](https://www.moodys.com/). 
 
@@ -22,4 +22,4 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 
 **Social media:** [LinkedIn](https://www.linkedin.com/in/sofiana-sinani/); [X (formerly Twitter)](https://x.com/SofianaSinani); [Bluesky](https://bsky.app/profile/sofianasinani.bsky.social)
 
-<span style="color: red; font-weight: bold;">I am on the 2026/2027 job market! 😊</span>
+<span style="font-weight: bold;">I am on the 2026/2027 job market  😊</span>
