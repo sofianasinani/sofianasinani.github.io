@@ -7,7 +7,7 @@ author_profile: true
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism</span>
+<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism - JMP</span>
 <br>
 *Paper available upon request* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
