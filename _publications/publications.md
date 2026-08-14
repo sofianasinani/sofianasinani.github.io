@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism - JMP</span>
+<span style="font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism - JMP</span>
 <br>
 *Paper available upon request* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
@@ -21,7 +20,7 @@ Can a state force people to change their identity, or only how they express it? 
 
 <div style="margin-top: 15px;"></div>
 
-<span style="color: #003366; font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices</span>
+<span style="font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices</span>
 <br>
 [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
 <br>
@@ -43,7 +42,7 @@ This paper investigates whether a mother's extended provision of full-time child
 </details>
 
 <div style="margin-top: 15px;"></div>
-<span style="color: #003366; font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
+<span style="font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
 *Paper available upon request* · with [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)
 
@@ -51,7 +50,7 @@ We study whether positive aggregate income shocks in local economies in India ha
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
-<span style="color: #003366; font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
+<span style="font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
 <br>
 with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)
 <br>
