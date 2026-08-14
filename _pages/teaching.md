@@ -22,5 +22,5 @@ author_profile: true
 
 <div style="margin-top: 10px;"></div>
 
-**Teaching Assistant** in Development Economics (CERGE-EI) · Fall 2022
+**Teaching Assistant** in Development Economics for Andreas Menzel, CERGE-EI · Fall 2022
 <p style="color: grey; font-style: italic; margin-top: 5px;">Responsibilities included grading and providing feedback on development economics papers covering topics such as education, gender, health, and microfinance.</p>
