@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2 style="color: #003366; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Bachelor level</h2>
+<h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Bachelor level</h2>
 
 <div style="margin-top: 10px;"></div>
 
@@ -17,7 +17,7 @@ author_profile: true
 <p style="color: grey; font-style: italic; margin-top: 5px;">This course provides an applied introduction to labour economics with a focus on both theoretical models and contemporary policy challenges. Topics include wage setting, human capital, migration, gender, minimum wages, and the impact of technology on labour markets.</p> 
 <div style="margin-top: 15px;"></div>
 
-<h2 style="color: #003366; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">PhD level</h2>
+<h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">PhD level</h2>
 
 
 <div style="margin-top: 10px;"></div>
