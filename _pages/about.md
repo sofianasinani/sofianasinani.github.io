@@ -16,6 +16,6 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 
 <div style="margin: 0; padding: 0; line-height: 1.8;">
 <p style="margin: 0 0 5px 0;"><strong>Email:</strong> Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
-<p style="margin: 0 0 5px 0;"><strong>CV:</strong> <a href="[/files/Sofiana_Sinani_CV.pdf](https://www.dropbox.com/scl/fi/icu5lxbf0qve58di9t7xb/Sofiana_Sinani_CV.pdf?rlkey=l6wfie96s8azf9md2zu3ih2mk&dl=0)">here</a></p>
+<p style="margin: 0 0 5px 0;"><strong>CV:</strong> <a href="https://www.dropbox.com/scl/fi/icu5lxbf0qve58di9t7xb/Sofiana_Sinani_CV.pdf?rlkey=l6wfie96s8azf9md2zu3ih2mk&dl=0">here</a></p>
 <p style="margin: 0 0 5px 0;"><strong>Social media:</strong> <a href="https://www.linkedin.com/in/sofiana-sinani/">LinkedIn</a>; <a href="https://x.com/SofianaSinani">X (formerly Twitter)</a>; <a href="https://bsky.app/profile/sofianasinani.bsky.social">Bluesky</a></p>
 </div>
