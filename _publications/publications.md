@@ -32,12 +32,15 @@ author_profile: true
 
 <div style="margin-top: 15px;"></div>
 
-<span style="font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices</span>
+<span style="font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)</span>
 <br>
-[CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
+*Does having a stay-at-home mother influence children’s career preferences?* 
 <br>
 
+<details>
+<summary style="color: grey; cursor: pointer;">Abstract</summary>
 This paper investigates whether a mother's extended provision of full-time childcare shapes her children's preferences for occupation choices. I analyze a natural experiment in the Czech Republic that extended parental allowances by one year. This induced many mothers to remain out of the workplace and caused them to face a higher likelihood of long-term unemployment. This shift reinforced a more traditional, mother-as-homemaker dynamic within households. Using a regression discontinuity design, I measure their children's later occupational preferences via their university applications. I find that boys who were exposed to the reform during early childhood were 20% less likely to apply to stereotypically feminine fields in adulthood, with no corresponding effect observed for girls.
+</details>
 
 <details>
 <summary style="color: grey; cursor: pointer;">Presentations</summary>
@@ -56,16 +59,36 @@ This paper investigates whether a mother's extended provision of full-time child
 <div style="margin-top: 15px;"></div>
 <span style="font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
-*Paper available upon request* · with [Andreas Menzel](https://sites.google.com/view/andreasmenzel/home)
+*Do increases in local incomes lead firms to hire more workers?*
 
+<details>
+  <summary style="color: grey; cursor: pointer;">Co-authors</summary>
+  <p>
+    <a href="https://sites.google.com/view/andreasmenzel/home/">Andreas Menzel</a>
+  </p>
+</details>
+
+<details>
+<summary style="color: grey; cursor: pointer;">Abstract</summary>
 We study whether positive aggregate income shocks in local economies in India have positive effects on firm size, as measured by number of workers. We proxy local aggregate income shocks with predicted agricultural yields, based on rainfall data and soil suitability for different crops, to obtain exogenous variation in local incomes. We find that positive agricultural shocks are related to larger firm size in the ensuing years, though not in the same year. We also find positive effects of the same agricultural shocks on consumption indices, as well as on ownership rates of durables and transport vehicles. The firm size effects are driven by firms in manufacturing, transport, telecommunications and hospitality sector, broadly in line with the consumption results. These results are consistent with positive demand shocks spurring creation of new jobs in firms.
-
+<details>
+  
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
 <span style="font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
-<br>
-with [Michal Šoltés](https://sites.google.com/view/msoltes/home) and [Filip Pertold](https://sites.google.com/site/fpertold/)
-<br>
 *[Review of Economics of the Household](https://link.springer.com/journal/11150), February 2025*
+*Do mothers and fathers differ in their willingness to stay home to care for their children?*
 
+<details>
+  <summary style="color: grey; cursor: pointer;">Co-authors</summary>
+  <p>
+    <a href="[http://www.giorcellimichela.com/](https://sites.google.com/site/fpertold/)">Filip Pertold</a>
+    and
+    <a href="[https://sites.google.com/site/enkehavari](https://sites.google.com/view/msoltes/home)/">Michal Šoltés</a>
+  </p>
+</details>
+
+<details>
+<summary style="color: grey; cursor: pointer;">Abstract</summary>
 The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member.
+<details>
