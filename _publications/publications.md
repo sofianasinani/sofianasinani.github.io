@@ -10,7 +10,7 @@ author_profile: true
 <br>
 *Paper available upon request* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
 <br>
-<span style="color: #8B0000;">Can a state force people to change their identity, or only how they express it?</span>
+<span style="color: #24292e;">Can a state force people to change their identity, or only how they express it?</span>
 
 <details>
 <summary style="color: grey; cursor: pointer;">Abstract</summary>
