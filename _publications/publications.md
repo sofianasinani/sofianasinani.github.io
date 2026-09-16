@@ -57,9 +57,10 @@ This paper investigates whether a mother's extended provision of full-time child
 </details>
 
 <div style="margin-top: 15px;"></div>
+
 <span style="font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
-*Do increases in local incomes lead firms to hire more workers?*
+<em>Do increases in local incomes lead firms to hire more workers?</em>
 <br>
 
 <details>
@@ -70,9 +71,11 @@ This paper investigates whether a mother's extended provision of full-time child
 </details>
 
 <details>
-<summary style="color: grey; cursor: pointer;">Abstract</summary>
-We study whether positive aggregate income shocks in local economies in India have positive effects on firm size, as measured by number of workers. We proxy local aggregate income shocks with predicted agricultural yields, based on rainfall data and soil suitability for different crops, to obtain exogenous variation in local incomes. We find that positive agricultural shocks are related to larger firm size in the ensuing years, though not in the same year. We also find positive effects of the same agricultural shocks on consumption indices, as well as on ownership rates of durables and transport vehicles. The firm size effects are driven by firms in manufacturing, transport, telecommunications and hospitality sector, broadly in line with the consumption results. These results are consistent with positive demand shocks spurring creation of new jobs in firms.
-<details>
+  <summary style="color: grey; cursor: pointer;">Abstract</summary>
+  <p>
+    We study whether positive aggregate income shocks in local economies in India have positive effects on firm size, as measured by number of workers. We proxy local aggregate income shocks with predicted agricultural yields, based on rainfall data and soil suitability for different crops, to obtain exogenous variation in local incomes. We find that positive agricultural shocks are related to larger firm size in the ensuing years, though not in the same year. We also find positive effects of the same agricultural shocks on consumption indices, as well as on ownership rates of durables and transport vehicles. The firm size effects are driven by firms in manufacturing, transport, telecommunications and hospitality sector, broadly in line with the consumption results. These results are consistent with positive demand shocks spurring creation of new jobs in firms.
+  </p>
+</details>
   
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
