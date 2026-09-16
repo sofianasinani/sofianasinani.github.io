@@ -60,6 +60,7 @@ This paper investigates whether a mother's extended provision of full-time child
 <span style="font-weight: bold; font-size: 20px;">Income Shocks and Firm Size in India</span>
 <br>
 *Do increases in local incomes lead firms to hire more workers?*
+<br>
 
 <details>
   <summary style="color: grey; cursor: pointer;">Co-authors</summary>
@@ -76,8 +77,12 @@ We study whether positive aggregate income shocks in local economies in India ha
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Published</h2>
 
 <span style="font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
+<br>
 *[Review of Economics of the Household](https://link.springer.com/journal/11150), February 2025*
+<br>
+<br>
 *Do mothers and fathers differ in their willingness to stay home to care for their children?*
+<br>
 
 <details>
   <summary style="color: grey; cursor: pointer;">Co-authors</summary>
