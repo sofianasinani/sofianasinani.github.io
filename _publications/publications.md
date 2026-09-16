@@ -7,7 +7,6 @@ author_profile: true
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
 <span style="font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism - JMP</span>
-<br>
 *Can a state force people to change their identity, or only how they express it?* 
 
 <details>
