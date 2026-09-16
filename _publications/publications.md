@@ -10,9 +10,13 @@ author_profile: true
 *Can a state force people to change their identity, or only how they express it?* 
 
 <details>
-<summary style="color: grey; cursor: pointer;">Co-authors</summary>
-[Michela Giorcelli](http://www.giorcellimichela.com/) and [Enkelejda Havari](https://sites.google.com/site/enkehavari/)
-<details>
+  <summary style="color: grey; cursor: pointer;">Co-authors</summary>
+  <p>
+    <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a>
+    and
+    <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a>
+  </p>
+</details>
  
 <details>
 <summary style="color: grey; cursor: pointer;">Abstract</summary>
