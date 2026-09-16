@@ -78,22 +78,24 @@ We study whether positive aggregate income shocks in local economies in India ha
 
 <span style="font-weight: bold; font-size: 20px;">Gender Gap in Reported Childcare Preferences among Parents</span>
 <br>
-*[Review of Economics of the Household](https://link.springer.com/journal/11150), February 2025*
+<em><a href="https://link.springer.com/journal/11150">Review of Economics of the Household</a>, February 2025</em>
 <br>
 <br>
-*Do mothers and fathers differ in their willingness to stay home to care for their children?*
+<em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em>
 <br>
 
 <details>
   <summary style="color: grey; cursor: pointer;">Co-authors</summary>
   <p>
-    <a href="[http://www.giorcellimichela.com/](https://sites.google.com/site/fpertold/)">Filip Pertold</a>
+    <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a>
     and
-    <a href="[https://sites.google.com/site/enkehavari](https://sites.google.com/view/msoltes/home)/">Michal Šoltés</a>
+    <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a>
   </p>
 </details>
 
 <details>
-<summary style="color: grey; cursor: pointer;">Abstract</summary>
-The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member.
-<details>
+  <summary style="color: grey; cursor: pointer;">Abstract</summary>
+  <p>
+    The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member.
+  </p>
+</details>
