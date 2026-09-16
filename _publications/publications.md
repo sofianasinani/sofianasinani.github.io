@@ -8,10 +8,13 @@ author_profile: true
 
 <span style="font-weight: bold; font-size: 20px;">Faith, Interrupted: Names, Family, and Identity After Forced Atheism - JMP</span>
 <br>
-*Paper available upon request* · with [Enkelejda Havari](https://sites.google.com/site/enkehavari/) and [Michela Giorcelli](http://www.giorcellimichela.com/)
-<br>
-<span style="color: #24292e;">Can a state force people to change their identity, or only how they express it?</span>
+*Can a state force people to change their identity, or only how they express it?* 
 
+<details>
+<summary style="color: grey; cursor: pointer;">Co-authors</summary>
+[Michela Giorcelli](http://www.giorcellimichela.com/) and [Enkelejda Havari](https://sites.google.com/site/enkehavari/)
+<details>
+ 
 <details>
 <summary style="color: grey; cursor: pointer;">Abstract</summary>
  Can coercive nation-building reshape identity itself, or only its public expression? We study Albania’s 1967 anti-religion campaign, which banned religious practice and promoted secular Albanian given names. The campaign’s sharp implementation, in a country largely isolated from the outside world, makes it a unique setting to answer this question. Combining civil registry data with the Integrated Values Survey, we examine the campaign’s effects on naming, family behavior, and beliefs. We find that religious naming fell sharply after the ban—Christian names by 5 pp (20%) and Muslim names by 7 pp (26%)—while secular Albanian names rose by 11 pp (46%). Compliance was weaker among local religious minorities and stronger in districts with higher illiteracy. Interestingly, we show that men exposed to the campaign at a young age were more likely to marry women from secular Albanian backgrounds, yet religious boundaries in marriage remained largely intact. In general, post-reform cohorts report less religious upbringing but show no systematic change in current religiosity or political values. The ban thus affected public religious expression and inter-religious marriages, but did not alter private beliefs or values, strong evidence that public compliance is an incomplete proxy for cultural change.
