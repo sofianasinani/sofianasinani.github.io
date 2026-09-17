@@ -32,7 +32,7 @@ author_profile: true
 
 <div style="margin-top: 15px;"></div>
 
-<span style="font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices [CERGE-EI Working Paper](http://cerge-ei.cz/pdf/wp/Wp812.pdf)</span>
+<span style="font-weight: bold; font-size: 20px;">The Effect of Longer Maternal Care on Children's Occupation Choices - [CERGE-EI WP](http://cerge-ei.cz/pdf/wp/Wp812.pdf)</span>
 <br>
 *Does having a stay-at-home mother influence children’s career preferences?* 
 <br>
