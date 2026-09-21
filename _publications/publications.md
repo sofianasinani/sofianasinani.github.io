@@ -6,9 +6,9 @@ author_profile: true
 
 <h2 style="color: #8B0000; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">Work in Progress</h2>
 
-<span style="font-weight: bold; font-size: 17px;">Faith, Interrupted: Can States Change Identity?
+<span  style="font-weight: bold; font-size: 20px;">Faith, Interrupted: Can States Change Identity?
 </span>
-<a href="[https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&e=1&dl=0]" style="text-decoration: none;">
+<a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&e=1&dl=0" style="text-decoration: none;">
 <span style="background-color: #8B0000; color: white; font-weight: bold; padding: 3px 10px; border-radius: 4px; font-size: 13px; margin-left: 8px;">Job Market Paper</span>
 </a>
 <br>
