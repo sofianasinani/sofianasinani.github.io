@@ -12,7 +12,10 @@ redirect_from:
 
 <p class="job-market-status">I am on the 2026/2027 job market 😊</p>
 
-<nav class="profile-actions" aria-label="Professional links"><a href="https://www.dropbox.com/scl/fi/icu5lxbf0qve58di9t7xb/Sofiana_Sinani_CV.pdf?rlkey=l6wfie96s8azf9md2zu3ih2mk&dl=0">CV</a><a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&e=1&dl=0">Job Market Paper</a></nav>
+<nav class="profile-actions" aria-label="Professional links">
+  <a href="https://www.dropbox.com/scl/fi/icu5lxbf0qve58di9t7xb/Sofiana_Sinani_CV.pdf?rlkey=l6wfie96s8azf9md2zu3ih2mk&amp;dl=0">CV</a>
+  <a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&amp;e=1&amp;dl=0">Job Market Paper</a>
+</nav>
 
 My research spans **family, culture, and development economics**, primarily studying how institutions interact with identity to shape preferences over family and employment. My work combines administrative and survey data across diverse contexts, including the Czech Republic, Albania, and India. I am also interested in firm growth in developing countries. 
 
