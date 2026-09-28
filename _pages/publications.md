@@ -27,7 +27,7 @@ author_profile: true
 <span style="background-color: #003366; color: white; font-weight: bold; padding: 3px 10px; border-radius: 4px; font-size: 13px; margin-left: 8px;">Job Market Paper</span>
 </a>
 </div>
-<p class="paper-coauthors">With <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a> and <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a></p>
+<p class="paper-coauthors">with <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a> and <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a></p>
 
 *Can a state force people to change their identity, or only how they express it?* 
 <br>
@@ -35,7 +35,7 @@ author_profile: true
 
  
 <div class="paper-abstract">
-<p>Can coercive nation-building reshape identity itself, or only its public expression? We study Albania’s 1967 anti-religion campaign, which banned religious practice and promoted secular Albanian given names. The campaign’s sharp implementation, in a country largely isolated from the outside world, makes it a unique setting to answer this question. Combining civil registry data with the Integrated Values Survey, we examine the campaign’s effects on naming, family behavior, and beliefs. We find that religious naming fell sharply after the ban—Christian names by 5 pp (20%) and Muslim names by 7 pp (26%)—while secular Albanian names rose by 11 pp (46%). Compliance was weaker among local religious minorities and stronger in districts with higher illiteracy. Interestingly, we show that men exposed to the campaign at a young age were more likely to marry women from secular Albanian backgrounds, yet religious boundaries in marriage remained largely intact. In general, post-reform cohorts report less religious upbringing but show no systematic change in current religiosity or political values. The ban thus affected public religious expression and inter-religious marriages, but did not alter private beliefs or values, strong evidence that public compliance is an incomplete proxy for cultural change.</p>
+<p>Can coercive nation-building reshape identity, or only its public expression? We study Albania’s 1967 anti-religion campaign using civil registry data and the Integrated Values Survey. The ban sharply reduced religious naming and increased secular Albanian names, with compliance varying across communities. Men exposed in childhood were more likely to marry women from secular Albanian backgrounds, although religious marriage boundaries largely persisted. Despite reporting less religious upbringing, post-reform cohorts show no systematic changes in current religiosity or political values. These findings suggest that coercion can change public behavior without transforming private beliefs, making public compliance an incomplete measure of cultural change.</p>
 </div>
 
 <details>
@@ -75,14 +75,14 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/maternal-care.svg" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><img src="{{ "/images/papers/maternal_care.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
 </article>
 
 <article class="paper-row" markdown="1">
 <div class="paper-text" markdown="1">
 
 <h3 class="paper-title">Income Shocks and Firm Size in India</h3>
-<p class="paper-coauthors">With <a href="https://sites.google.com/view/andreasmenzel/home/">Andreas Menzel</a></p>
+<p class="paper-coauthors">with <a href="https://sites.google.com/view/andreasmenzel/home/">Andreas Menzel</a></p>
 
 <em>Do increases in local incomes lead firms to hire more workers?</em>
 <br>
@@ -96,7 +96,7 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/income-shocks.svg" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
 </article>
 
 <h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Published</h2>
@@ -105,7 +105,7 @@ author_profile: true
 <div class="paper-text" markdown="1">
 
 <h3 class="paper-title">Gender Gap in Reported Childcare Preferences among Parents</h3>
-<p class="paper-coauthors">With <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
+<p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
 
 <em><a href="https://link.springer.com/journal/11150">Review of Economics of the Household</a>, February 2025</em>
 <br>
@@ -121,6 +121,6 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/childcare-preferences.svg" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
 </article>
 
