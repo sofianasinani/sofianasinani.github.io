@@ -114,6 +114,10 @@ include:
   - images
   - files
 exclude:
+  # Legacy duplicate routes; the maintained pages live in _pages/*.md.
+  - _pages/publications.html
+  - _pages/teaching.html
+  - _publications/publications.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
