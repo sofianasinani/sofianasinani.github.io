@@ -57,7 +57,7 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
@@ -90,7 +90,7 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><a href="{{ "/images/papers/maternal_care.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: The Effect of Longer Maternal Care on Children's Occupation Choices"><img src="{{ "/images/papers/maternal_care.png" | relative_url }}" alt="Figure for The Effect of Longer Maternal Care on Children's Occupation Choices" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/maternal_care.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: The Effect of Longer Maternal Care on Children's Occupation Choices"><img src="{{ "/images/papers/maternal_care.png" | relative_url }}" alt="Figure for The Effect of Longer Maternal Care on Children's Occupation Choices" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
@@ -114,7 +114,7 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><a href="{{ "/images/papers/india_ec.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Income Shocks and Firm Size in India"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure for Income Shocks and Firm Size in India" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/india_ec.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Income Shocks and Firm Size in India"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure for Income Shocks and Firm Size in India" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
@@ -142,7 +142,7 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><a href="{{ "/images/papers/gender_gap.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Gender Gap in Reported Childcare Preferences among Parents"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure for Gender Gap in Reported Childcare Preferences among Parents" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/gender_gap.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Gender Gap in Reported Childcare Preferences among Parents"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure for Gender Gap in Reported Childcare Preferences among Parents" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
