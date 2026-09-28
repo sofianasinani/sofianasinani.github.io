@@ -63,7 +63,7 @@ a:focus-visible, summary:focus-visible { outline: 2px solid #003366; outline-off
 .profile-paper p { font-size: 17px; line-height: 1.35; margin-top: 12px; }
 .jmp-button { display: inline-block; background: #003366; color: white !important; font-weight: bold; padding: 4px 12px; border-radius: 4px; font-size: 15px; }
 .archive > h2 { color: #003366 !important; border-color: #003366 !important; }
-.paper-row { display: grid; grid-template-columns: minmax(0, 1fr) 240px; gap: 28px; padding: 24px 0; border-bottom: 1px solid #e1e1de; }
+.paper-row { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 28px; padding: 24px 0; border-bottom: 1px solid #e1e1de; }
 .paper-row:last-child { border-bottom: 0; }
 .paper-text { min-width: 0; }
 .paper-title { display: inline; margin: 0; font-size: 20px; line-height: 1.35; }
