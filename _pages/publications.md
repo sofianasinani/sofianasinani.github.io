@@ -6,21 +6,31 @@ author_profile: true
 ---
 
 <style>
-.paper-heading { display: flex; align-items: baseline; gap: 8px; }
+.paper-row { display: block; }
+.paper-header { margin-bottom: 18px; }
+.paper-heading { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px 12px; }
 .paper-heading .paper-title { flex: 0 1 auto; }
 .paper-heading > a { flex: 0 0 auto; white-space: nowrap; }
 .paper-heading > a span { margin-left: 0 !important; }
-.paper-text > .paper-coauthors { font-size: 16px; line-height: 1.4; margin: 6px 0 12px; }
+.paper-header .paper-coauthors { font-size: 16px; line-height: 1.4; margin: 6px 0 0; }
+.paper-body { display: grid; grid-template-columns: minmax(0, 65fr) minmax(0, 35fr); gap: 28px; align-items: start; }
+.paper-text > p:first-child { margin-top: 0; }
 .paper-abstract { font-size: 16px; line-height: 1.55; margin: 12px 0; }
 .paper-abstract p { margin: 0 0 10px; }
-@media (max-width: 620px) { .paper-heading { flex-wrap: wrap; } }
+.paper-body .paper-figure { width: 100%; max-width: none; margin: 0; }
+.paper-figure a { display: block; cursor: zoom-in; }
+.paper-figure img { width: 100%; height: auto; object-fit: contain; }
+.paper-figure figcaption { margin-top: 6px; font-size: 13px; color: #73777c; text-align: right; }
+@media (min-width: 57.8125em) and (max-width: 1100px), (max-width: 700px) {
+  .paper-body { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .paper-body .paper-figure { max-width: 480px; }
+}
 </style>
 
 <h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Work in Progress</h2>
 
 <article class="paper-row" markdown="1">
-<div class="paper-text" markdown="1">
-
+<header class="paper-header">
 <div class="paper-heading">
 <h3 class="paper-title">Faith, Interrupted: Can States Change Identity?</h3>
 <a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&e=1&dl=0" style="text-decoration: none;">
@@ -28,6 +38,9 @@ author_profile: true
 </a>
 </div>
 <p class="paper-coauthors">with <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a> and <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a></p>
+</header>
+<div class="paper-body" markdown="1">
+<div class="paper-text" markdown="1">
 
 *Can a state force people to change their identity, or only how they express it?* 
 <br>
@@ -44,14 +57,16 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+</div>
 </article>
 
 <article class="paper-row" markdown="1">
-<div class="paper-text" markdown="1">
-
+<header class="paper-header">
 <h3 class="paper-title">The Effect of Longer Maternal Care on Children's Occupation Choices </h3>
-
+</header>
+<div class="paper-body" markdown="1">
+<div class="paper-text" markdown="1">
 
 *Does having a stay-at-home mother influence children’s career preferences?* [[Working Paper]](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
 <br>
@@ -75,14 +90,17 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/maternal_care.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/maternal_care.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: The Effect of Longer Maternal Care on Children's Occupation Choices"><img src="{{ "/images/papers/maternal_care.png" | relative_url }}" alt="Figure for The Effect of Longer Maternal Care on Children's Occupation Choices" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+</div>
 </article>
 
 <article class="paper-row" markdown="1">
-<div class="paper-text" markdown="1">
-
+<header class="paper-header">
 <h3 class="paper-title">Income Shocks and Firm Size in India</h3>
 <p class="paper-coauthors">with <a href="https://sites.google.com/view/andreasmenzel/home/">Andreas Menzel</a></p>
+</header>
+<div class="paper-body" markdown="1">
+<div class="paper-text" markdown="1">
 
 <em>Do increases in local incomes lead firms to hire more workers?</em>
 <br>
@@ -96,16 +114,19 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/india_ec.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Income Shocks and Firm Size in India"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure for Income Shocks and Firm Size in India" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+</div>
 </article>
 
 <h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Published</h2>
 
 <article class="paper-row" markdown="1">
-<div class="paper-text" markdown="1">
-
+<header class="paper-header">
 <h3 class="paper-title">Gender Gap in Reported Childcare Preferences among Parents</h3>
 <p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
+</header>
+<div class="paper-body" markdown="1">
+<div class="paper-text" markdown="1">
 
 <em><a href="https://link.springer.com/journal/11150">Review of Economics of the Household</a>, February 2025</em>
 <br>
@@ -121,6 +142,7 @@ author_profile: true
 </div>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/gender_gap.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Gender Gap in Reported Childcare Preferences among Parents"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure for Gender Gap in Reported Childcare Preferences among Parents" loading="lazy" width="640" height="420"></a><figcaption>Click figure to enlarge</figcaption></figure>
+</div>
 </article>
 
