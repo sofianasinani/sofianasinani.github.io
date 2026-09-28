@@ -39,7 +39,7 @@ author_profile: true
 </details>
 
 </div>
-<figure class="paper-figure"><img src="{{ "/images/papers/faith-interrupted.svg" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
+<figure class="paper-figure"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure forthcoming" loading="lazy" width="640" height="420"></figure>
 </article>
 
 <article class="paper-row" markdown="1">
