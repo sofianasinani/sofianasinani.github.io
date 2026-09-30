@@ -7,7 +7,6 @@
     "vendor/breakpoint/breakpoint",
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
     "include/mixins",
     "vendor/susy/susy",
     "layout/reset",
@@ -32,6 +31,8 @@
 
 /* Personal portfolio layout. */
 :root {
+  /* Keep the portfolio light for system dark mode and saved theme preferences. */
+  color-scheme: only light;
   --global-base-color: #003366;
   --global-bg-color: #faf9f6;
   --global-footer-bg-color: #f0efec;
