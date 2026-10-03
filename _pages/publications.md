@@ -56,6 +56,10 @@ author_profile: true
 <p><em><span style="color: grey;">(2026) ASREC North America (California), CERGE-EI Brown Bag (Prague), ESPE (Helsinki), Kiel Institute for the World Economy (Berlin), Workshop on Gender and Economics (Luxembourg), IAAE (Lisbon), Women in Political Economy Workshop (Vienna); (2025) ASREC Europe Graduate Workshop (Copenhagen), CERGE-EI Applied Micro Seminar (Prague)</span></em></p>
 </details>
 
+<p style="color: grey; font-size: 16px; margin-top: 8px;">
+  Previously circulated as “Faith, Interrupted: Identity and Behavior After Forced Atheism”
+</p>
+
 </div>
 <figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a></figure>
 </div>
