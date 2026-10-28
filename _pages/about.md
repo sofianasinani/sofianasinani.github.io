@@ -15,6 +15,7 @@ redirect_from:
 <nav class="profile-actions" aria-label="Professional links">
   <a href="https://www.dropbox.com/scl/fi/icu5lxbf0qve58di9t7xb/Sofiana_Sinani_CV.pdf?rlkey=l6wfie96s8azf9md2zu3ih2mk&amp;dl=0">CV</a>
   <a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&amp;e=1&amp;dl=0">Job Market Paper</a>
+  <a href="https://lnkd.in/p/dYFzy3rm">One-minute summary video of my JMP!</a>
 </nav>
 
 My research spans **family, political, and development economics**. I study how institutions interact with identity to shape preferences over family and employment, with a main focus on post-Communist settings. I am also interested in firm growth in developing countries. 
