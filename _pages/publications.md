@@ -48,7 +48,7 @@ author_profile: true
 
  
 <div class="paper-abstract">
-<p>Can authoritarian states reshape identity by policing its public markers? We study Albania’s 1967 religion ban and campaign to replace religious names with secular Albanian ones. Religious naming fell sharply, especially in poorer, more illiterate districts, while religious minorities resisted more. Among men exposed during childhood, larger local naming shifts also predict more out-group marriage. Yet survey evidence reveals no lasting change in adult religiosity or national attachment. Authoritarian states can reshape public behavior—and even consequential family choices—without permanently transforming private beliefs.</p>
+<p>Can authoritarian states reshape identity by policing visible markers? We study Albania's 1967 religion ban using administrative records for four million citizens and post-Communist surveys. The campaign sharply reduced religious naming and promoted secular Albanian names, especially in less literate districts where anticipated monitoring and the costs of noncompliance may have been greater. Larger naming declines were associated with modestly more out-group marriage among younger men, but not among older cohorts. Later-born cohorts report weaker religious socialization but no broad changes in current religiosity or political values. Coercion can change public identity without broadly remaking private conviction.</p>
 </div>
 
 <details>
