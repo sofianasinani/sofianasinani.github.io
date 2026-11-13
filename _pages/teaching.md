@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="margin-top: 10px;"></div>
 
-**Instructor for Social Policy & Evaluation Tools**, [Academic Experience Prague]((https://www.aeprague.org/about-us)) · Fall 2026
+**Instructor for Social Policy & Evaluation Tools**, [Academic Experience Prague](https://www.aeprague.org/about-us) · Fall 2026
 
 <p style="color: grey; font-style: italic; margin-top: 5px;">This course introduces students to the empirical methods economists use to evaluate the effects of social policies. We ask a simple question — does this policy work? — and discover that answering it rigorously requires careful thinking about causality, data, and research design.</p>
 
