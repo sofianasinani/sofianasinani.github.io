@@ -27,14 +27,14 @@ author_profile: true
 }
 </style>
 
-<h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Work in Progress</h2>
+<h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Job Market Paper</h2>
 
 <article class="paper-row" markdown="1">
 <header class="paper-header">
 <div class="paper-heading">
 <h3 class="paper-title">Faith, Interrupted: Can States Change Identity?</h3>
 <a href="https://www.dropbox.com/scl/fi/umelmbssl4e4jy5mwjent/Sofiana_JMP.pdf?rlkey=0jyv2ujfcj734q8zrns5lqebj&e=1&dl=0" style="text-decoration: none;">
-<span style="background-color: #003366; color: white; font-weight: bold; padding: 3px 10px; border-radius: 4px; font-size: 13px; margin-left: 8px;">Job Market Paper</span>
+<span style="background-color: #003366; color: white; font-weight: bold; padding: 3px 10px; border-radius: 4px; font-size: 13px; margin-left: 8px;">Link</span>
 </a>
 </div>
 <p class="paper-coauthors">with <a href="http://www.giorcellimichela.com/">Michela Giorcelli</a> and <a href="https://sites.google.com/site/enkehavari/">Enkelejda Havari</a></p>
@@ -42,11 +42,9 @@ author_profile: true
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-*Can a state force people to change their identity, or only how they express it?* 
+*Can a state force people to change their identity, or only how they express it?*
 <br>
 
-
- 
 <div class="paper-abstract">
 <p>Can authoritarian states reshape identity by policing visible markers? We study Albania's 1967 religion ban using administrative records for four million citizens and post-Communist surveys. The campaign sharply reduced religious naming and promoted secular Albanian names, especially in less literate districts where anticipated monitoring and the costs of noncompliance may have been greater. Larger naming declines were associated with modestly more out-group marriage among younger men, but not among older cohorts. Later-born cohorts report weaker religious socialization but no broad changes in current religiosity or political values. Coercion can change public identity without broadly remaking private conviction.</p>
 </div>
@@ -64,6 +62,34 @@ author_profile: true
 <figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
+
+<h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Published</h2>
+
+<article class="paper-row" markdown="1">
+<header class="paper-header">
+<h3 class="paper-title"><a href="[https://link.springer.com/journal/11150](https://link.springer.com/article/10.1007/s11150-025-09764-7)">Gender Gap in Reported Childcare Preferences among Parents</a></h3>
+<p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
+</header>
+<div class="paper-body" markdown="1">
+<div class="paper-text" markdown="1">
+
+<em>Review of Economics of the Household, February 2025</em>
+<br>
+<em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em>
+<br>
+
+<div class="paper-abstract">
+<p>
+    The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member.
+  </p>
+</div>
+
+</div>
+<figure class="paper-figure"><a href="{{ "/images/papers/gender_gap.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Gender Gap in Reported Childcare Preferences among Parents"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure for Gender Gap in Reported Childcare Preferences among Parents" loading="lazy" width="640" height="420"></a></figure>
+</div>
+</article>
+
+<h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Work in Progress</h2>
 
 <article class="paper-row" markdown="1">
 <header class="paper-header">
@@ -109,8 +135,6 @@ author_profile: true
 <em>Do increases in local incomes lead firms to hire more workers?</em>
 <br>
 
-
-
 <div class="paper-abstract">
 <p>
     We study whether positive aggregate income shocks in local economies in India have positive effects on firm size, as measured by number of workers. We proxy local aggregate income shocks with predicted agricultural yields, based on rainfall data and soil suitability for different crops, to obtain exogenous variation in local incomes. We find that positive agricultural shocks are related to larger firm size in the ensuing years, though not in the same year. We also find positive effects of the same agricultural shocks on consumption indices, as well as on ownership rates of durables and transport vehicles. The firm size effects are driven by firms in manufacturing, transport, telecommunications and hospitality sector, broadly in line with the consumption results. These results are consistent with positive demand shocks spurring creation of new jobs in firms.
@@ -119,34 +143,6 @@ author_profile: true
 
 </div>
 <figure class="paper-figure"><a href="{{ "/images/papers/india_ec.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Income Shocks and Firm Size in India"><img src="{{ "/images/papers/india_ec.png" | relative_url }}" alt="Figure for Income Shocks and Firm Size in India" loading="lazy" width="640" height="420"></a></figure>
-</div>
-</article>
-
-<h2 style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 5px;">Published</h2>
-
-<article class="paper-row" markdown="1">
-<header class="paper-header">
-<h3 class="paper-title"><a href="[https://link.springer.com/journal/11150](https://link.springer.com/article/10.1007/s11150-025-09764-7)">Gender Gap in Reported Childcare Preferences among Parents</a></h3>
-<p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
-</header>
-<div class="paper-body" markdown="1">
-<div class="paper-text" markdown="1">
-
-<em>Review of Economics of the Household, February 2025</em>
-<br>
-<em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em>
-<br>
-
-
-
-<div class="paper-abstract">
-<p>
-    The child penalty explains the majority of gender employment and wage gaps; however, less is known about the factors driving the child penalty itself. In this paper, we study the gender gap in childcare preferences as a potential factor that contributes to the child penalty. We surveyed Czech parents and elicited the minimal compensation they would require to stay home to care for a child. Mothers require less compensation for childcare than fathers. The estimated gender gap in childcare preferences is CZK 2,500 monthly, 7.6% of the median female wage, and cannot be explained by differences in labor market opportunities or prosocial motives to care for a family member.
-  </p>
-</div>
-
-</div>
-<figure class="paper-figure"><a href="{{ "/images/papers/gender_gap.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Gender Gap in Reported Childcare Preferences among Parents"><img src="{{ "/images/papers/gender_gap.png" | relative_url }}" alt="Figure for Gender Gap in Reported Childcare Preferences among Parents" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
