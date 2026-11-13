@@ -132,7 +132,7 @@ author_profile: true
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-<em>Do increases in local incomes lead firms to hire more workers?</em>
+<em>Do increases in local incomes lead firms to hire more workers? (Draft available upon request)</em>
 <br>
 
 <div class="paper-abstract">
