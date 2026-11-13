@@ -8,11 +8,11 @@ author_profile: true
 
 <div style="margin-top: 10px;"></div>
 
-**Instructor for Social Policy & Evaluation Tools**, [Academic Experience Prague](https://www.academicexperienceprague.com/) · Fall 2026
+**Instructor for Social Policy & Evaluation Tools**, [Academic Experience Prague]((https://www.aeprague.org/about-us)) · Fall 2026
 
 <p style="color: grey; font-style: italic; margin-top: 5px;">This course introduces students to the empirical methods economists use to evaluate the effects of social policies. We ask a simple question — does this policy work? — and discover that answering it rigorously requires careful thinking about causality, data, and research design.</p>
 
-**Instructor for Labor Economics**, [Academic Experience Prague](https://www.academicexperienceprague.com/) · Spring 2026
+**Instructor for Labor Economics**, [Academic Experience Prague](https://www.aeprague.org/about-us) · Spring 2026
 
 <p style="color: grey; font-style: italic; margin-top: 5px;">This course provides an applied introduction to labour economics with a focus on both theoretical models and contemporary policy challenges. Topics include wage setting, human capital, migration, gender, minimum wages, and the impact of technology on labour markets.</p> 
 <div style="margin-top: 15px;"></div>
