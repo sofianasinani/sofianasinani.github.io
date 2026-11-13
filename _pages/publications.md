@@ -59,7 +59,7 @@ author_profile: true
 </p>
 
 </div>
-<figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a></figure>
+<figure class="paper-figure"><a href="{{ "/images/papers/deviation_estimator_avg.png" | relative_url }}" target="_blank" rel="noopener" aria-label="Enlarge figure: Faith, Interrupted: Can States Change Identity?"><img src="{{ "/images/papers/deviation_estimator.png" | relative_url }}" alt="Figure for Faith, Interrupted: Can States Change Identity?" loading="lazy" width="640" height="420"></a></figure>
 </div>
 </article>
 
