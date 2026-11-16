@@ -67,7 +67,7 @@ author_profile: true
 
 <article class="paper-row" markdown="1">
 <header class="paper-header">
-<h3 class="paper-title"><a href="[https://link.springer.com/journal/11150](https://link.springer.com/article/10.1007/s11150-025-09764-7)">Gender Gap in Reported Childcare Preferences among Parents</a></h3>
+<h3 class="paper-title"><a href="https://link.springer.com/article/10.1007/s11150-025-09764-7">Gender Gap in Reported Childcare Preferences among Parents</a></h3>
 <p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
 </header>
 <div class="paper-body" markdown="1">
