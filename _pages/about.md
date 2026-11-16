@@ -24,4 +24,3 @@ During my PhD years, I visited the University of Padova (hosted by [Andreas Menz
 
 <p style="margin: 0 0 5px 0;"><strong>Email:</strong> Sofiana[dot]Sinani[at]cerge-ei[dot]cz</p>
 <p style="margin: 0 0 5px 0;"><strong>Social media:</strong> <a href="https://www.linkedin.com/in/sofiana-sinani/">LinkedIn</a>; <a href="https://x.com/SofianaSinani">X (formerly Twitter)</a>; <a href="https://bsky.app/profile/sofianasinani.bsky.social">Bluesky</a></p>
-</div>
