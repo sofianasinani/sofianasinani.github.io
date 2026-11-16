@@ -67,13 +67,12 @@ author_profile: true
 
 <article class="paper-row" markdown="1">
 <header class="paper-header">
-<h3 class="paper-title"><a href="https://link.springer.com/article/10.1007/s11150-025-09764-7">Gender Gap in Reported Childcare Preferences among Parents</a></h3>
-<p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
+<h3 class="paper-title">Gender Gap in Reported Childcare Preferences among Parents</h3><p class="paper-coauthors">with <a href="https://sites.google.com/site/fpertold/">Filip Pertold</a> and <a href="https://sites.google.com/view/msoltes/home">Michal Šoltés</a></p>
 </header>
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-<p style="margin: 0 0 12px;">Review of Economics of the Household, February 2025</p>
+<p style="margin: 0 0 12px;">Review of Economics of the Household, February 2025 <a href="https://link.springer.com/article/10.1007/s11150-025-09764-7">[Article link]</a></p>
 <p style="margin: 0;"><em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em></p>
 
 <div class="paper-abstract">
@@ -96,8 +95,8 @@ author_profile: true
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-*Does having a stay-at-home mother influence children’s career preferences?* [[Working Paper]](http://cerge-ei.cz/pdf/wp/Wp812.pdf)
-<br>
+<p style="margin: 0 0 6px;"><em>Does having a stay-at-home mother influence children’s career preferences?</em></p>
+<p style="margin: 0;"><a href="http://cerge-ei.cz/pdf/wp/Wp812.pdf">[Article link]</a></p>
 
 <div class="paper-abstract">
 <p>This paper investigates whether a mother's extended provision of full-time childcare shapes her children's preferences for occupation choices. I analyze a natural experiment in the Czech Republic that extended parental allowances by one year. This induced many mothers to remain out of the workplace and caused them to face a higher likelihood of long-term unemployment. This shift reinforced a more traditional, mother-as-homemaker dynamic within households. Using a regression discontinuity design, I measure their children's later occupational preferences via their university applications. I find that boys who were exposed to the reform during early childhood were 20% less likely to apply to stereotypically feminine fields in adulthood, with no corresponding effect observed for girls.</p>
@@ -130,8 +129,8 @@ author_profile: true
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-<em>Do increases in local incomes lead firms to hire more workers? (Draft available upon request)</em>
-<br>
+<p style="margin: 0 0 6px;"><em>Do increases in local incomes lead firms to hire more workers?</em></p>
+<p style="margin: 0;">[Draft available upon request]</p>
 
 <div class="paper-abstract">
 <p>
