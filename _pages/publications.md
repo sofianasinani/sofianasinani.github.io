@@ -73,10 +73,8 @@ author_profile: true
 <div class="paper-body" markdown="1">
 <div class="paper-text" markdown="1">
 
-<em>Review of Economics of the Household, February 2025</em>
-<br>
-<em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em>
-<br>
+<p style="margin: 0 0 12px;">Review of Economics of the Household, February 2025</p>
+<p style="margin: 0;"><em>Do mothers and fathers differ in their willingness to stay home to care for their children?</em></p>
 
 <div class="paper-abstract">
 <p>
